@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zhangyi//Github/CNNDemo/CNNYoutubeDemo/models/research/object_detection/training/model.ckpt-0"
+all_model_checkpoint_paths: "/home/zhangyi//Github/CNNDemo/CNNYoutubeDemo/models/research/object_detection/training/model.ckpt-0"
